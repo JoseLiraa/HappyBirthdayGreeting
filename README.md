@@ -1,4 +1,4 @@
 # Compose Basics 💻
 
-## Android App  🎯
-### Birthday Greeting
+## Birthday Greeting | Android App 🛸
+Full screen Composable Image and greeting birthday text 
